@@ -6,7 +6,8 @@ CREATOR: JOZIN
 MAKE WITH LOVE
 
 */
-inline int pootis(const char *POOTIS)
+inline int pootis()
 {
-    printf(POOTIS);
+    printf("POOTIS\n");
+    return 0;
 }
